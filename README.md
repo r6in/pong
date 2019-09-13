@@ -2,6 +2,7 @@ PONG
 ====
 
 A simple recreation of the 1972 retro game for Microsoft Windows.
+Gameplay video https://www.youtube.com/watch?v=ElykcfAJ_DI
 
 
 Controls
